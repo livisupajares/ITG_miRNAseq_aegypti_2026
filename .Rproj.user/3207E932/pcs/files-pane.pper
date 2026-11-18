@@ -5,5 +5,5 @@
             "ascending": true
         }
     ],
-    "path": "/run/user/1000/gvfs/smb-share:server=nas922719.local,share=entomologia/Livisu/ITG_miRNAseq_aegypti_2026"
+    "path": "~/Documents/livisu/ITG_miRNAseq_aegypti_2026"
 }
